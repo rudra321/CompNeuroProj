@@ -1,6 +1,6 @@
 # Computational Neuroscience 
 
-CS F433 2023 
+CS F433, April 2023
 
 Follow these steps to make the code work on your locale system :-
 1. Download the code as ipynb file.
